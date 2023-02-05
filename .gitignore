@@ -1,0 +1,12 @@
+/temp/
+/results/
+*.pth
+.idea
+.git
+.prd
+*.pyc 
+.temp
+.env
+*.log
+**/.ipynb_checkpoints
+.ipynb_checkpoints
